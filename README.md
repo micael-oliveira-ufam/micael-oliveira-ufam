@@ -1,22 +1,22 @@
 # Micael Davi Lima de Oliveira
 
-### About Me
-Hello! I’m Micael Davi Lima de Oliveira, an enthusiastic undergraduate student majoring in Pharmacy. My passion lies in drug discovery and research, particularly in the field of diabetic neuropathy. As someone deeply committed to improving patient outcomes, I’m excited to contribute to the development of novel therapies.
+### Sobre mim
+Olá! Sou Micael Davi Lima de Oliveira, um entusiasmado estudante de graduação em Farmácia. Minha paixão está na descoberta e pesquisa de medicamentos, particularmente na área de neuropatia diabética. Como alguém profundamente comprometido em melhorar os resultados dos pacientes, estou animado para contribuir para o desenvolvimento de novas terapias.
 
-### Research Focus
-Area of Interest: Drug discovery, medicinal chemistry, and pharmacology.
-Current Project: Investigating potential treatments for diabetic neuropathy.
-Approach: Integrating in silico tools (molecular docking, molecular dynamics) with in vitro experiments (cell culture) to identify promising compounds.
-Repository Contents
-/code: Contains code snippets, scripts, and algorithms related to my research.
-/data: Holds datasets, experimental results, and any relevant data files.
-/docs: Documentation, including research summaries, protocols, and literature reviews.
-/notebooks: Jupyter notebooks showcasing data analysis and visualization.
-/results: Compiled results, figures, and tables.
-/references: Key scientific papers and references related to diabetic neuropathy and drug discovery.
-How to Reach Me
-Feel free to connect with me on LinkedIn or via email (micaeldavi@example.com). I’m always open to collaboration and discussions related to our shared interests.
+### Foco da pesquisa
+Área de interesse: descoberta de medicamentos, química medicinal e farmacologia.
+Projeto atual: investigação de tratamentos potenciais para neuropatia diabética.
+Abordagem: integração de ferramentas in silico (docking molecular, dinâmica molecular) com experimentos in vitro (cultura de células) para identificar compostos promissores.
+Conteúdo do repositório
+/code: contém trechos de código, scripts e algoritmos relacionados à minha pesquisa.
+/data: contém conjuntos de dados, resultados experimentais e quaisquer arquivos de dados relevantes.
+/docs: documentação, incluindo resumos de pesquisa, protocolos e revisões de literatura.
+/notebooks: cadernos Jupyter apresentando análise e visualização de dados.
+/results: Resultados compilados, figuras e tabelas.
+/references: Principais artigos científicos e referências relacionadas à neuropatia diabética e descoberta de medicamentos.
+Como entrar em contato comigo
+Sinta-se à vontade para se conectar comigo no LinkedIn ou por e-mail (micaeldavi@example.com). Estou sempre aberto a colaborações e discussões relacionadas aos nossos interesses compartilhados.
 
-Let’s work together to make a difference in healthcare!
+Vamos trabalhar juntos para fazer a diferença na área da saúde!
 
-Remember to replace the placeholders (such as email address and LinkedIn profile) with your actual information. Best of luck with your research, Micael Davi! If you have any other questions or need further assistance, feel free to ask. 😊
+Lembre-se de substituir os marcadores de posição (como endereço de e-mail e perfil do LinkedIn) pelas suas informações reais. Boa sorte com sua pesquisa, Micael Davi! Se você tiver alguma outra dúvida ou precisar de mais assistência, sinta-se à vontade para perguntar. 😊
