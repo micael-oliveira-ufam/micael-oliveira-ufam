@@ -8,7 +8,7 @@ Olá! Sou Micael Davi Lima de Oliveira, um entusiasmado estudante de graduação
 Projeto atual: investigação de tratamentos potenciais para neuropatia diabética. \\
 Abordagem: integração de ferramentas in silico (docking molecular, dinâmica molecular) com experimentos in vitro (cultura de células) para identificar compostos promissores. \\
 
-** Conteúdo do repositório **
+**Conteúdo do repositório**
 
 /code: contém trechos de código, scripts e algoritmos relacionados à minha pesquisa. \\
 /data: contém conjuntos de dados, resultados experimentais e quaisquer arquivos de dados relevantes. \\
@@ -17,7 +17,7 @@ Abordagem: integração de ferramentas in silico (docking molecular, dinâmica m
 /results: Resultados compilados, figuras e tabelas. \\
 /references: Principais artigos científicos e referências relacionadas à neuropatia diabética e descoberta de medicamentos. \\
 
-** Como entrar em contato comigo: **
+**Como entrar em contato comigo:**
 
 Sinta-se à vontade para se conectar comigo no LinkedIn ou por e-mail (micael.oliveira@ufam.edu.br). Estou sempre aberto a colaborações e discussões relacionadas aos nossos interesses compartilhados. \\
 
