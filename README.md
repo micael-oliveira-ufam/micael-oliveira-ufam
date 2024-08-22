@@ -4,9 +4,9 @@
 Olá! Sou Micael Davi Lima de Oliveira, um entusiasmado estudante de graduação em Farmácia. Minha paixão está na descoberta e pesquisa de medicamentos, particularmente na área de neuropatia diabética. Como alguém profundamente comprometido em melhorar os resultados dos pacientes, estou animado para contribuir para o desenvolvimento de novas terapias.
 
 ### Foco da pesquisa
-Área de interesse: descoberta de medicamentos, química medicinal e farmacologia. \\
-Projeto atual: investigação de tratamentos potenciais para neuropatia diabética. \\
-Abordagem: integração de ferramentas in silico (docking molecular, dinâmica molecular) com experimentos in vitro (cultura de células) para identificar compostos promissores. \\
+Área de interesse: descoberta de medicamentos, química medicinal e farmacologia. \n
+Projeto atual: investigação de tratamentos potenciais para neuropatia diabética. \n
+Abordagem: integração de ferramentas in silico (docking molecular, dinâmica molecular) com experimentos in vitro (cultura de células) para identificar compostos promissores. \n
 
 **Conteúdo do repositório**
 
