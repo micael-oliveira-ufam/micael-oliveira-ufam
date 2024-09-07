@@ -29,4 +29,4 @@ Sinta-se à vontade para se conectar comigo no LinkedIn ou por e-mail (micael.ol
 
 Vamos trabalhar juntos para fazer a diferença na área da saúde! 
 
-Lembre-se de substituir os marcadores de posição (como endereço de e-mail e perfil do LinkedIn) pelas suas informações reais. Boa sorte com sua pesquisa, Micael Davi! Se você tiver alguma outra dúvida ou precisar de mais assistência, sinta-se à vontade para perguntar. 😊
+Se você tiver alguma dúvida ou precisar de ajuda em Bioinformática, sinta-se à vontade para perguntar. 😊
