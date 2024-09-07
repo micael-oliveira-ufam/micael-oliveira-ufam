@@ -1,4 +1,4 @@
-# Micael Davi Lima de Oliveira
+# Micael Davi Lima de Oliveira (Graduando em Farmácia pela UFAM)
 
 ### Sobre mim
 Olá! Sou Micael Davi Lima de Oliveira, um entusiasmado estudante de graduação em Farmácia na Universidade Federal do Amazonas (UFAM), mas que antes persistiu por 4 anos num curso de Bacharelado em Física. Isto porque meui sonho sempre foi e será de vir a se tornar um cientista. Minha paixão está na descoberta e pesquisa de medicamentos, particularmente na área de doenças de alta complexidade do sistema nervoso como neuropatia diabética, transtorno depressivo, Alzheimer, Esquizofrenia. Como alguém profundamente comprometido em melhorar os resultados dos pacientes, estou animado para contribuir para o desenvolvimento de novas terapias.
