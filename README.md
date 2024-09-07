@@ -12,20 +12,9 @@ Abordagem: integração de ferramentas in silico (docking molecular, dinâmica m
 
 **Conteúdo do repositório**
 
-/code: contém trechos de código, scripts e algoritmos relacionados à minha pesquisa. 
-
-/data: contém conjuntos de dados, resultados experimentais e quaisquer arquivos de dados relevantes. 
-
-/docs: documentação, incluindo resumos de pesquisa, protocolos e revisões de literatura. 
-/notebooks: cadernos Jupyter apresentando análise e visualização de dados. 
-
-/results: Resultados compilados, figuras e tabelas.
-
-/references: Principais artigos científicos e referências relacionadas à neuropatia diabética e descoberta de medicamentos. 
-
 **Como entrar em contato comigo:**
 
-Sinta-se à vontade para se conectar comigo no LinkedIn ou por e-mail (micael.oliveira@ufam.edu.br). Estou sempre aberto a colaborações e discussões relacionadas aos nossos interesses compartilhados. 
+Sinta-se à vontade para se conectar comigo no LinkedIn ou por e-mail (micael.oliveira@ufam.edu.br), e também pelo celular (92) 98132-2139. Estou sempre aberto a colaborações e discussões relacionadas aos nossos interesses compartilhados. 
 
 Vamos trabalhar juntos para fazer a diferença na área da saúde! 
 
