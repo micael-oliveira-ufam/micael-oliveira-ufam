@@ -14,7 +14,7 @@ Abordagem: integração de ferramentas in silico (docking molecular, dinâmica m
 
 **Como entrar em contato comigo:**
 
-Sinta-se à vontade para se conectar comigo no LinkedIn ou por e-mail (micael.oliveira@ufam.edu.br), e também pelo celular (92) 98132-2139. Estou sempre aberto a colaborações e discussões relacionadas aos nossos interesses compartilhados. 
+Sinta-se à vontade para se conectar comigo no LinkedIn ou por e-mail (micael.oliveira@ufam.edu.br). Estou sempre aberto a colaborações. 
 
 Vamos trabalhar juntos para fazer a diferença na área da saúde! 
 
