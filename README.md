@@ -1,58 +1,58 @@
-# Olá, eu sou Micael Davi Lima de Oliveira 👋
+# Hi, I am Micael Davi Lima de Oliveira 👋
 
-**Pesquisador em Bioinformática | Data Science | CADD | Graduando em Farmácia**
+**Bioinformatics Researcher | Data Science | CADD | Pharmacy Undergraduate**
 
-Sou estudante de Farmácia (8º período) na Universidade Federal do Amazonas (UFAM) e Pesquisador de Iniciação Científica (PIBIC) no ILMD - Fiocruz Amazônia, atuando no Laboratório de Imunologia e Doenças Infecciosas sob orientação do Prof. Dr. Pritesh Lalwani. 
+I am an 8th-period Pharmacy undergraduate student at the Federal University of Amazonas (UFAM) and a Scientific Initiation Researcher (PIBIC) at ILMD - Fiocruz Amazônia, working in the Immunology and Infectious Diseases Laboratory under the supervision of Prof. Dr. Pritesh Lalwani. 
 
-Minha atuação foca na interseção entre **ciência de dados, bioinformática estrutural e saúde digital**, com ênfase no desenvolvimento de pipelines de quimioinformática e na criação de soluções tecnológicas adaptadas para os desafios epidemiológicos e logísticos da região amazônica.
+My work focuses on the intersection of **data science, structural bioinformatics, and digital health**, with an emphasis on developing chemoinformatics pipelines and creating technological solutions tailored to the epidemiological and logistical challenges of the Amazon region.
 
 ---
 
-### 🔬 Áreas de Atuação
-*   **Computer-Aided Drug Design (CADD):** Docking molecular, dinâmica molecular e triagem virtual de compostos.
-*   **Data Science & Machine Learning:** Construção de pipelines analíticos para dados biomédicos e epidemiológicos.
-*   **Saúde Digital:** Desenvolvimento de aplicações móveis *offline-first* para monitoramento comunitário em regiões de difícil acesso.
-*   **Engenharia de Hardware:** Prototipagem eletrônica com microcontroladores e sensores aplicados à coleta de dados.
+### 🔬 Areas of Expertise
+*   **Computer-Aided Drug Design (CADD):** Molecular docking, molecular dynamics, and virtual screening of compounds.
+*   **Data Science & Machine Learning:** Building analytical pipelines for biomedical and epidemiological data.
+*   **Digital Health:** Development of *offline-first* mobile applications for community monitoring in hard-to-reach areas.
+*   **Hardware Engineering:** Electronic prototyping with microcontrollers and sensors applied to data collection.
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies & Tools
 
-**Linguagens & Data Science:**
+**Languages & Data Science:**
 *   `Python` (Pandas, PyTorch, TensorFlow, OpenCV, BioPython)
 *   `R` (TCGAbiolinks, PharmacoGx)
 
-**Bioinformática & Química Computacional:**
+**Bioinformatics & Computational Chemistry:**
 *   `Schrödinger Maestro` & `Desmond` | `VMD`
 *   `Open Babel` | `RDKit` | `ChemSketch` | `MarvinSketch`
 *   `Geneious` | `VectorBuilder`
 
-**Desenvolvimento, Nuvem & Infraestrutura:**
+**Development, Cloud & Infrastructure:**
 *   `Google Colab` | `Streamlit Community Cloud` | `GitHub`
 *   `Android Studio` | `Firebase` 
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
 #### 📱 Saúde nas Margens 
-Aplicativo móvel com arquitetura *offline-first* desenvolvido para o município de Manicoré. O projeto visa contornar as limitações de conectividade no interior do Amazonas para registro e monitoramento de saúde.
+Mobile application with an *offline-first* architecture developed for the municipality of Manicoré. The project aims to overcome connectivity limitations in the interior of Amazonas for health registration and monitoring.
 *   **Stack:** Flutter, Django, PostgreSQL.
 
 #### 🌐 BioDockUfam
-Dashboard interativo e automatizado para docking molecular voltado para a comunidade acadêmica. O projeto inclui refinamento de travas de concorrência de servidor.
+Interactive and automated molecular docking dashboard aimed at the academic community. The project includes the refinement of server concurrency locks.
 *   **Stack:** Python, Streamlit Community Cloud.
 
-#### 🩸 Protótipo de Teste Rápido POC (HPV-16)
-Design de um teste rápido *point-of-care* de fluxo lateral para variantes do HPV-16, otimizado para as restrições logísticas e de transporte do Amazonas.
-*   **Métodos:** Mapeamento de epítopos in silico (Geneious) e construção de plasmídeos (VectorBuilder).
+#### 🩸 POC Rapid Test Prototype (HPV-16)
+Design of a lateral flow *point-of-care* rapid test for HPV-16 variants, optimized for the logistical and transport constraints of Amazonas.
+*   **Methods:** In silico epitope mapping (Geneious) and plasmid construction (VectorBuilder).
 
 ---
 
-### 📊 Academia e Liderança
-Além da minha pesquisa envolvendo alvos terapêuticos e o estudo de reservatórios animais em arboviroses zoonóticas (como o vírus Oropouche), colaboro ativamente com redes de pesquisadores na UFAM, UNICAMP e Fiocruz. 
+### 📊 Academia & Leadership
+In addition to my research involving therapeutic targets and the study of animal reservoirs in zoonotic arboviruses (such as the Oropouche virus), I actively collaborate with research networks at UFAM, UNICAMP, and Fiocruz. 
 
 ---
 
-### 📫 Como me encontrar
-*   📍 **Localização:** Manaus, Amazonas, Brasil
-*   ✉️ **E-mail:** micael.oliveira@fiocruz.br
+### 📫 How to reach me
+*   📍 **Location:** Manaus, Amazonas, Brazil
+*   ✉️ **Email:** micael.oliveira@fiocruz.br
 *   💼 **LinkedIn:** https://www.linkedin.com/in/micael-lima-pharm/
