@@ -54,5 +54,5 @@ Além da minha pesquisa envolvendo alvos terapêuticos e o estudo de reservatór
 
 ### 📫 Como me encontrar
 *   📍 **Localização:** Manaus, Amazonas, Brasil
-*   ✉️ **E-mail:** [micael.oliveira@fiocruz.br]
-*   💼 **LinkedIn:** [[Insira o link do seu perfil](https://www.linkedin.com/in/micael-lima-pharm/)]
+*   ✉️ **E-mail:** micael.oliveira@fiocruz.br
+*   💼 **LinkedIn:** https://www.linkedin.com/in/micael-lima-pharm/
