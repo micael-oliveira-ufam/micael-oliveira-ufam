@@ -54,5 +54,5 @@ In addition to my research involving therapeutic targets and the study of animal
 
 ### 📫 How to reach me
 *   📍 **Location:** Manaus, Amazonas, Brazil
-*   ✉️ **Email:** micael.oliveira@fiocruz.br
+*   ✉️ **Email:** micael.oliveira@ufam.edu.br
 *   💼 **LinkedIn:** https://www.linkedin.com/in/micael-lima-pharm/
