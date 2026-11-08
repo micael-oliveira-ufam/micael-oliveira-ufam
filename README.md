@@ -1,6 +1,6 @@
-# Hi, I am Micael Davi Lima de Oliveira 👋
+# Hi, I am Micael Davi Lima de Oliveira 👋🔬
 
-**Bioinformatics Researcher | Data Science | CADD | Pharmacy Undergraduate**
+**Bioinformatics Researcher 🧬 | Data Science 💻 | CADD 🧪 | Pharmacy Undergraduate 🩺**
 
 I am an 8th-period Pharmacy undergraduate student at the Federal University of Amazonas (UFAM), where I am a Technological Initiation Student (iniciação tecnológica) developing the GAIA platform.
 
