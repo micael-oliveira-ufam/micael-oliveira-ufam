@@ -42,7 +42,7 @@ Currently in development as a Technological Initiation Student at UFAM, applying
 
 #### 🩺 CitoIllumina — Cervical Cancer Screening Platform
 Currently in development. CitoIllumina uses computer vision to classify precursor lesions of cervical cancer from liquid-based cytology.
-*   **Access:** [micael-oliveira-ufam.github.io/ia_citologia_ufam](https://micael-oliveira-ufam.github.io/ia_citologia_ufam/)
+*   **Access:** [micael-oliveira-ufam.github.io/ia_citologia_ufam](https://micael-oliveira-ufam.github.io/citoillumina/)
 *   **Related work:** POC rapid test prototype for HPV-16 (see below).
 
 ---
