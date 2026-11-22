@@ -63,7 +63,7 @@ An atlas of human parasitology.
 
 #### 🏥 Hospital Pharmacy Support & Inventory Control
 A project to support hospital pharmacy and inventory control, with AI-based analysis.
-*   **Access:** [micael-oliveira-ufam.github.io/farmacia-hospitalar-AI-analysis](https://micael-oliveira-ufam.github.io/farmacia-hospitalar-AI-analysis/)
+*   **Access:** [micael-oliveira-ufam.github.io/farmacia-hospitalar-AI-analysis](https://micael-oliveira-ufam.github.io/pharmacentral-farmacia-hospitalar/)
 
 ---
 
